@@ -1,2 +1,6 @@
 flask==3.1.0
 gunicorn
+streamlit
+matplotlib
+pandas
+numpy
